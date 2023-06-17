@@ -1,0 +1,1 @@
+In Python, there are some errors that cannot be handled by a try-except block. These are called "fatal errors" or "unrecoverable errors", and they occur when the Python interpreter encounters an error that is so severe that it cannot continue executing the program. Examples of such errors include:

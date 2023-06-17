@@ -1,0 +1,1 @@
+Occurs when the Python interpreter encounters invalid syntax in the code, such as a missing colon or a missing closing parenthesis.
